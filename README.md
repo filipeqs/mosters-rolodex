@@ -30,3 +30,8 @@ $ npm start
 ## Features
 
 - Use search field to filter the list of monsters.
+
+## Resources
+
+- List of users fetched from: https://jsonplaceholder.typicode.com/
+- Images fetched from: https://robohash.org/
