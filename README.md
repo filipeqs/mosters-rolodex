@@ -29,4 +29,4 @@ $ npm start
 
 ## Features
 
-- Use search field to filter monster list
+- Use search field to filter the list of monsters.
