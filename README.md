@@ -1,8 +1,9 @@
-# Hangman Game
+# Monster Rolodex
 
-This is a sample JavaScript todo app done step-by-step.
+This is a sample React project to explore it's basic features.
+(Components, State, Props, Lifecycles)
 
-Check the demo hosted on https://hangmangame-js.netlify.app/.
+Check the demo hosted on https://filipeqs.github.io/mosters-rolodex/.
 
 ---
 
@@ -11,7 +12,7 @@ Check the demo hosted on https://hangmangame-js.netlify.app/.
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/heuzin/hangman-game.git
+$ git clone https://github.com/filipeqs/mosters-rolodex.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
@@ -23,15 +24,9 @@ $ npm install # or yarn
 Run it
 
 ```bash
-$ npm run dev-server
+$ npm start
 ```
 
 ## Features
 
-- Use keyboard to guees word
-- Showing remaining guesses
-- Reset game
-
-## Screenshot
-
-![GitHub Logo](/public/images/hangman-app.png)
+- Use search field to filter monster list
